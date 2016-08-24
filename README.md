@@ -1,2 +1,2 @@
-# Solar-Destiny 0.0.2 Pre-Pre-Alpha
--now first person
+# Solar-Destiny 0.0.3 Pre-Pre-Alpha
+-Bug fixes and optimisations
