@@ -1,2 +1,2 @@
-# Solar-Destiny 0.0.3 Pre-Pre-Alpha
--Bug fixes and optimisations
+# Solar-Legends 0.0.4 Pre-Pre-Alpha
+-Directinal light
