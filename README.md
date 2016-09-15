@@ -1,2 +1,2 @@
-# Solar-Legends 0.0.4 Pre-Pre-Alpha
--Directinal light
+# Solar-Legends 0.0.5 Pre-Pre-Alpha
+-Directional light
