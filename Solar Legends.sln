@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar Legends.CSharp.Plugins", "Solar Legends.CSharp.Plugins.csproj", "{96CC5D43-9295-A2B8-1C93-E1EA18CB1737}"
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar Legends.CSharp", "Solar Legends.CSharp.csproj", "{67DD3796-B3AF-BA9E-F2FB-8B16544281D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar Legends.CSharp.Editor", "Solar Legends.CSharp.Editor.csproj", "{DECA3A6F-B75A-133A-34E7-1147911B3E96}"
 EndProject
@@ -13,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96CC5D43-9295-A2B8-1C93-E1EA18CB1737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96CC5D43-9295-A2B8-1C93-E1EA18CB1737}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96CC5D43-9295-A2B8-1C93-E1EA18CB1737}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96CC5D43-9295-A2B8-1C93-E1EA18CB1737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DD3796-B3AF-BA9E-F2FB-8B16544281D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DD3796-B3AF-BA9E-F2FB-8B16544281D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DD3796-B3AF-BA9E-F2FB-8B16544281D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DD3796-B3AF-BA9E-F2FB-8B16544281D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DECA3A6F-B75A-133A-34E7-1147911B3E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DECA3A6F-B75A-133A-34E7-1147911B3E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DECA3A6F-B75A-133A-34E7-1147911B3E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
