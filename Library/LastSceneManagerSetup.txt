@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Solar Legends.unity
+- path: Assets/maps/Earth.unity
   isLoaded: 1
   isActive: 1

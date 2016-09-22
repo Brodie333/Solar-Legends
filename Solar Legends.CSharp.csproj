@@ -81,15 +81,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Day Night Cycle\Scripts\DayNightController.cs" />
+    <Compile Include="Assets\Day Night Cycle\Scripts\DemoScripts\RoatateCamera.cs" />
     <Compile Include="Assets\First person\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\First person\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
     <Compile Include="Assets\First person\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
     <Compile Include="Assets\First person\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
-    <Compile Include="Assets\First person\Characters\RollerBall\Scripts\Ball.cs" />
-    <Compile Include="Assets\First person\Characters\RollerBall\Scripts\BallUserControl.cs" />
-    <Compile Include="Assets\First person\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
-    <Compile Include="Assets\First person\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
-    <Compile Include="Assets\First person\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
     <Compile Include="Assets\First person\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\First person\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\First person\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
@@ -127,9 +124,8 @@
     <Compile Include="Assets\First person\Utility\WaypointProgressTracker.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Day Night Cycle\ReadMe.txt" />
     <None Include="Assets\First person\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-    <None Include="Assets\First person\Characters\RollerBall\RollerBallGuidelines.txt" />
-    <None Include="Assets\First person\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\First person\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
