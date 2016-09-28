@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar-Legends.CSharp", "Solar-Legends.CSharp.csproj", "{8CB853AC-C2AB-9817-7432-56646D3287FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solar-Legends.CSharp.Editor", "Solar-Legends.CSharp.Editor.csproj", "{F38A6644-063F-C3DE-7A67-05B8FD2E1EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB853AC-C2AB-9817-7432-56646D3287FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB853AC-C2AB-9817-7432-56646D3287FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB853AC-C2AB-9817-7432-56646D3287FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB853AC-C2AB-9817-7432-56646D3287FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38A6644-063F-C3DE-7A67-05B8FD2E1EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38A6644-063F-C3DE-7A67-05B8FD2E1EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38A6644-063F-C3DE-7A67-05B8FD2E1EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38A6644-063F-C3DE-7A67-05B8FD2E1EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
